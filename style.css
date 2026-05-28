@@ -1,6 +1,10 @@
 body{
     background-color: rgb(189, 206, 0);
+    text-align: center;
 }
-img{
-width: 30%;
+.cartao{
+    width: 40px;
+    background-color: black;
+    margin: auto;
 }
+    
